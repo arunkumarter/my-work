@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/MyLinkedList/.vs/MyLinkedList/v15
+/MyLinkedList/Debug
+/MyLinkedList/MyLinkedList/Debug
